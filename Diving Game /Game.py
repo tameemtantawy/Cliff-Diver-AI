@@ -1,3 +1,5 @@
+#this is the game you can play by yourself without the ai and you can control the player
+
 import pygame
 import sys
 import random
